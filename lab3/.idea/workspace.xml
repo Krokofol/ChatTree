@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="lab3:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="531e99e9-9cba-463d-929f-7f1199f74dda" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/treeChat/node/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/treeChat/node/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/treeChat/threads/PingThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/treeChat/threads/PingThread.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kJj7AQuox8MXhY0diwbzkbsEKB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Third Node">
+    <configuration name="First Node" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="treeChat.node.Node" />
+      <module name="lab3" />
+      <option name="PROGRAM_PARAMETERS" value="user1 10 8081" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Second Node" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="treeChat.node.Node" />
+      <module name="lab3" />
+      <option name="PROGRAM_PARAMETERS" value="user2 10 8082 127.0.0.1 8081" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Third Node" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="treeChat.node.Node" />
+      <module name="lab3" />
+      <option name="PROGRAM_PARAMETERS" value="user3 10 8083 127.0.0.1 8081" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="badInput" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="treeChat.node.Node" />
+      <module name="lab3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.badInput" />
+      <item itemvalue="Application.First Node" />
+      <item itemvalue="Application.Second Node" />
+      <item itemvalue="Application.Third Node" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="531e99e9-9cba-463d-929f-7f1199f74dda" name="Default Changelist" comment="" />
+      <created>1605425418373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605425418373</updated>
+      <workItem from="1605425425876" duration="4536000" />
+      <workItem from="1605431490685" duration="27219000" />
+      <workItem from="1605460800127" duration="658000" />
+      <workItem from="1605463783406" duration="720000" />
+      <workItem from="1605509009654" duration="1239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1605455371391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605455371391" />
+    <state x="222" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605509785707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="222" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605509785707" />
+    <state x="730" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1605453681340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="730" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605453681340" />
+    <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605460840614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605460840614" />
+    <state x="664" y="203" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1605458600620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="203" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605458600620" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605463795904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605463795904" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1605510249329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605510249329" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1605510249329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605510249329" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1605510249329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605510249329" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1605510249329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605510249329" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1605460469358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605460469358" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1605460469358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605460469358" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1605460469358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605460469358" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1605460469358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605460469358" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1605460846426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605460846426" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1605463783964">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605463783964" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1605445892172">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605445892172" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605461230196">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605461230196" />
+  </component>
+</project>
