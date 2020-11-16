@@ -6,11 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="531e99e9-9cba-463d-929f-7f1199f74dda" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/treeChat/node/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/treeChat/node/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/treeChat/threads/PingThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/treeChat/threads/PingThread.java" afterDir="false" />
-    </list>
+    <list default="true" id="531e99e9-9cba-463d-929f-7f1199f74dda" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
@@ -98,6 +95,7 @@
       <workItem from="1605460800127" duration="658000" />
       <workItem from="1605463783406" duration="720000" />
       <workItem from="1605509009654" duration="1239000" />
+      <workItem from="1605515768368" duration="1824000" />
     </task>
     <servers />
   </component>
@@ -109,10 +107,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605455371391" />
-    <state x="222" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605509785707">
+    <state x="222" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605517406621">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="222" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605509785707" />
+    <state x="222" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605517406621" />
     <state x="730" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1605453681340">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -125,6 +123,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="664" y="203" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605458600620" />
+    <state x="556" y="115" key="CommitChangelistDialog2" timestamp="1605517249580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="556" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605517249580" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605463795904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -165,10 +167,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605460846426" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1605463783964">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1605515767734">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605463783964" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605515767734" />
+    <state x="306" y="443" width="540" height="468" key="extract.method.dialog" timestamp="1605517147012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="306" y="443" width="540" height="468" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605517147012" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1605445892172">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
